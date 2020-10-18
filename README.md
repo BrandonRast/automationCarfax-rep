@@ -6,6 +6,6 @@ carfax inventory of toyota tacomas and connecting to a mysql and sending the dat
 
 ---
 **Todo:**
-- Filter through colors to allow for more data (carfax has a 50 page limit for viewing inventory)
+- Filter through Tacoma color inventory to allow for more data (carfax has a 50 page limit for viewing inventory)
 - Reduce time it takes to pull data 
 - Analyze data with Tableau and post link
